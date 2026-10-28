@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "P104_drivers_sqlite"
+        "P105_drivers_chatgpt"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
