@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "P105_drivers_chatgpt"
+        "P109_anonimizacion_sql"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
