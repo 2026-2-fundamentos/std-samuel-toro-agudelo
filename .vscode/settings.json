@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "P109_anonimizacion_sql"
+        "P201_clasificacion_basica_imagenes"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
